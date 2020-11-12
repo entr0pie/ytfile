@@ -1,0 +1,6 @@
+[[playlist]]
+#comment
+https://www.youtube.com/watch?v=G2rqUolpegY&list=RDG2rqUolpegY&start_radio=1
+
+[[another]]
+https://www.youtube.com/watch?v=76mkEfxxIl0&list=RDG2rqUolpegY&index=2
